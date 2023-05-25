@@ -15,7 +15,7 @@ Inventory Management System is a graphical user interface (GUI) application deve
 
 To run the Inventory Management System project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/inventory-management-system.git`
+1. Clone the repository: `git clone https://github.com/06Neel/Inventory-Management-System-Python-GUI-.git`
 2. Install any required dependencies or libraries specified in the project documentation.
 3. Open the main Python script or application file in your preferred development environment.
 4. Run the script or launch the application to start the Inventory Management System.

@@ -42,7 +42,7 @@ Contributions to the project are welcome! If you'd like to contribute, please fo
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.txt).
 
 ## Acknowledgments
 
